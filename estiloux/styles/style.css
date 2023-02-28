@@ -109,6 +109,26 @@ main .coluna1 p {
     line-height: 24px;
 }
 
+.ajuste {
+    margin-left: 17px;
+    margin-top: 12px;
+    margin-right: 10px;
+}
+
+.buscar {
+    display: flex;
+    justify-content: center;
+}
+
+.article1 {
+    height: 70px;
+    background-color: white
+}
+
+aside article h3 {
+    border-bottom: black solid 2px
+}
+
 
 /* aside com class */
 
